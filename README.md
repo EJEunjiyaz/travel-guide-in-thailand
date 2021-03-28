@@ -1,2 +1,2 @@
-# travel-guide-in-thailand
+# Travel Guide in Thailand
 Our ontology was designed to serve various useful information to the travelers and the user by offering them information about traveling stuff such as ETA time from one place to another. The user can also check the popularity of each individual landmark of the location as well as checking the top 3 restaurants or hotels at that particular place. Checking whether the current season is suitable for traveling to that area or not is also another functionality of our ontology.
